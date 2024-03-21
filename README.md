@@ -1,6 +1,6 @@
-# Name: KANISHKA V S
-# Register no: 212222230061
-# Date:
+##  Name: KANISHKA V S
+##  Register no: 212222230061
+##  Date:
 # Experiment No. 2 
 # Implementation of Perceptron for Binary Classification
 # AIM:
