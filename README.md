@@ -1,8 +1,8 @@
-<H3>Name: KANISHKA V S</H3>
-<H3>Register no: 212222230061</H3>
-<H3>Date:</H3>
-<H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+# Name: KANISHKA V S
+# Register no: 212222230061
+# Date:
+# Experiment No. 2 
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
@@ -139,9 +139,13 @@ plt.show()
 
 # OUTPUT:
 ![image](https://github.com/kanishka2305/Ex-2--NN/assets/113497357/98615224-c19c-43f9-ba3a-0d98cfed1d93)
+
 ![image](https://github.com/kanishka2305/Ex-2--NN/assets/113497357/b7cf8874-7ff3-4dfe-a5dd-1b53969b418a)
+
 ![image](https://github.com/kanishka2305/Ex-2--NN/assets/113497357/b91f7607-c08d-48fd-883b-e3f18bb01636)
+
 ![image](https://github.com/kanishka2305/Ex-2--NN/assets/113497357/faa692c3-09c0-4bf7-b20d-04afa9628588)
+
 ![image](https://github.com/kanishka2305/Ex-2--NN/assets/113497357/1c25a55d-3fb9-4087-a191-3fd1862f8d96)
 
 # RESULT:
